@@ -1,4 +1,4 @@
-# 🤖 CodeAlpha Machine Learning Internship Projects
+# CodeAlpha Machine Learning Internship Projects
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains the Machine Learning projects completed as part of the 
 
 # 📂 Projects Included
 
-## ✅ Task 1: Credit Scoring Model
+## Task 1: Credit Scoring Model
 
 ### Description
 
@@ -38,7 +38,7 @@ A Machine Learning model that predicts whether a loan application is likely to b
 
 ---
 
-## 🚧 Task 2: Disease Prediction System
+## Task 2: Disease Prediction System
 
 ### Description
 
@@ -66,7 +66,7 @@ A Machine Learning model that predicts the likelihood of diseases based on patie
 
 ---
 
-## 🚧 Task 3: Emotion Recognition System
+## Task 3: Emotion Recognition System
 
 ### Description
 
