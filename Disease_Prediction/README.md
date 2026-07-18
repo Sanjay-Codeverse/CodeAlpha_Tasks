@@ -2,7 +2,7 @@
 # Heart Disease Prediction
 
 ## 📌 Project Overview
-
+ 
 This project predicts whether a patient is likely to have heart disease using Machine Learning. It was developed as part of the CodeAlpha Machine Learning Internship.
 
 ---
