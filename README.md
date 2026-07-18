@@ -62,8 +62,6 @@ A Machine Learning model that predicts the likelihood of diseases based on patie
 - Model Evaluation
 - Performance Visualization
 
-**Status:** 🔄 In Progress
-
 ---
 
 ## Task 3: Emotion Recognition System
@@ -89,7 +87,6 @@ A Deep Learning-based system that recognizes human emotions from facial expressi
 - Emotion Classification
 - Performance Evaluation
 
-**Status:** ⏳ Upcoming
 
 ---
 
