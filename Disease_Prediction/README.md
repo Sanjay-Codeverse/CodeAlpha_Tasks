@@ -1,5 +1,5 @@
 
-# ❤️ Heart Disease Prediction
+# Heart Disease Prediction
 
 ## 📌 Project Overview
 
@@ -55,14 +55,6 @@ Build a classification model that predicts the presence of heart disease based o
 
 ---
 
-## 📈 Results
-
-- Accuracy: **79.89%**
-- Confusion Matrix
-- Classification Report
-- ROC Curve
-
----
 
 ## 📊 Project Results
 
