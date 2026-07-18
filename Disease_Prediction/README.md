@@ -64,6 +64,22 @@ Build a classification model that predicts the presence of heart disease based o
 
 ---
 
+## 📊 Project Results
+
+### Accuracy
+
+![Accuracy](images/Model%20accuracy.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/Confusion%20Matrix.png)
+
+### ROC Curve
+
+![ROC Curve](images/ROC%20Curve.png)
+
+---
+
 ## 📁 Files
 
 - Heart_Disease_Prediction.ipynb
