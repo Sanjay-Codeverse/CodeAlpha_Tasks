@@ -17,7 +17,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 ![Model Accuracy](images/Model_Accuracy.png)
 
 ### Model Loss
-![Model Loss](images/Model_Loss.png)
+![Model Loss](images/Model_Loss.png) 
 
 ### Model Summary
 ![Model Summary](images/Screenshot%202026-07-23%20173343.png)
