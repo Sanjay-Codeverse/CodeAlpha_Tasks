@@ -64,29 +64,28 @@ A Machine Learning model that predicts the likelihood of diseases based on patie
 
 ---
 
-## Task 3: Emotion Recognition System
+## Task 3: Handwritten Character Recognition
 
 ### Description
 
-A Deep Learning-based system that recognizes human emotions from facial expressions using image classification techniques.
+A Deep Learning model that recognizes handwritten digits from the MNIST dataset using a Convolutional Neural Network (CNN).
 
 ### Technologies Used
 
 - Python
 - TensorFlow
 - Keras
-- OpenCV
 - NumPy
 - Matplotlib
 
 ### Features
 
-- Image Preprocessing
-- Facial Emotion Detection
-- CNN Model
-- Emotion Classification
-- Performance Evaluation
-
+- Data Preprocessing
+- Image Normalization
+- CNN Model Development
+- Handwritten Digit Recognition
+- Model Evaluation
+- Accuracy & Loss Visualization
 
 ---
 
