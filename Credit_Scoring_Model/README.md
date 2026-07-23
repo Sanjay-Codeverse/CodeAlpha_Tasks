@@ -129,4 +129,3 @@ The dataset contains information about loan applicants, including:
 **Sanjay**
 
 CodeAlpha Machine Learning Internship
-CodeAlpha Machine Learning Internship
